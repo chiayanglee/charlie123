@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 哈囉 我是李家揚
+# 自我介紹
+我是二乙的班代，每次班上有事情許要處理時，我總是能挺身而出。
 
-You can use the [editor on GitHub](https://github.com/chiayanglee/charlie123/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 興趣
+我很喜歡打籃球，每次下課我總是和三五好友一起到球場揮灑汗水。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chiayanglee/charlie123/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 第一次架設網站的心得
+我認為這次的作業給我很大的信心，因為終於有看到實際的成品出來，感覺自己的所學有了用處。
